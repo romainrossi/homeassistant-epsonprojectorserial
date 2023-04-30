@@ -1,3 +1,10 @@
+# Warning - Experimental Fork
+
+The goal of this fork is to experiment with changing the supported protocol to enable talking to Epson projector with serial connection.
+This is highly experimental - don't use it.
+
+Moreover, the following documentation is not up-to-date.
+
 # Home Assistant BenQ projector integration
 
 Home Assistant integration that supports sending commands to BenQ projectors
